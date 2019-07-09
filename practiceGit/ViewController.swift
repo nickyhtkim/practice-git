@@ -7,7 +7,7 @@
 //
 
 import UIKit
-
+var food = "pizza"
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
